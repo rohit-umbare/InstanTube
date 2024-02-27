@@ -9,8 +9,18 @@ It works for Linux, but code seamlessly adjusts to Windows environments, requiri
 pip install pytube
 pip install tk
 pip install pillow
+pip install ffmpeg
 ```
 
 # In action
+[Screencast from 28-02-24 04:01:33 AM IST.webm](https://github.com/rohit-umbare/InstanTube/assets/154395975/3cabb8bd-1b6f-466c-a589-961fe53a5de3)
 
-[Screencast from 28-02-24 04:01:33 AM IST.webm](https://github.com/rohit-umbare/InstanTube/assets/154395975/55c28b9d-575c-451f-8849-be5e06b5ed31)
+
+# Steps
+
+>1. Execute the main.py script.
+>2. Launch any web browser.
+>3. Copy the link of the desired video.
+>4. The program will automatically retrieve available streams.
+>5. For enhanced video quality, the program seamlessly merges audio and video streams that are otherwise downloaded separately.
+>6. Step 3 to download another video
