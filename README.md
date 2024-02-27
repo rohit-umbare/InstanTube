@@ -24,3 +24,18 @@ pip install ffmpeg
 >4. The program will automatically retrieve available streams.
 >5. For enhanced video quality, the program seamlessly merges audio and video streams that are otherwise downloaded separately.
 >6. Step 3 to download another video
+
+
+## Future Scopes
+
+Here are some potential updates and future scopes for the project:
+
+- Implementing a user-friendly graphical interface
+- Adding support for batch downloading of videos
+- Enhancing error handling and feedback for users
+- Improving performance and optimizing resource usage
+- Adding support for customization options, such as download preferences
+- Creating companion mobile android and desktop apps
+- Developing a browser extension for seamless video downloading directly from web browsers
+
+  
