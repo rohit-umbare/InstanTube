@@ -9,7 +9,7 @@ It works for Linux, but code seamlessly adjusts to Windows environments, requiri
 pip install pytube
 pip install tk
 pip install pillow
-pip install ffmpeg
+sudo apt install ffmpeg
 ```
 
 # In action
